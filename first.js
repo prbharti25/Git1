@@ -20,4 +20,8 @@ function showage(val){
 }
 
 showage(10);
+function showName(){
+    console.log(name);
+}
 
+showName();
