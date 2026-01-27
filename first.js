@@ -2,9 +2,9 @@ const name = "Pushp Raj Bharti";
 const age =20;
 const balance = 5000;
 
-console.log("Hello");
+console.log("Hello World");
 function updateBalance(){
-    balance+=20;
+    balance+=1000;
 }
 
 updateBalance();
